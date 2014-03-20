@@ -1,0 +1,11 @@
+{
+  "name": "optimize",
+  "version": "0.1.0",
+  "description": "This project is about website optimisation",
+  "main": "Grunt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Corsini",
+  "license": "MIT"
+}
