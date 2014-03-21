@@ -1,0 +1,3 @@
+This will hold all libraries that are needed for project
+I am not sure i need this folder just yet as i might just run from
+node_modules or bower component
